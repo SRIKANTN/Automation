@@ -10,7 +10,7 @@ public class Demo extends BaseTest
 	@Test
 	public void testA()
 	{
-		Reporter.log("hii....",true);
+		Reporter.log("Welcome....",true);
 	}
 
 }
