@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
+    <line>
+      <![CDATA[Hello Good morning!]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="295871" started-at="2019-12-04T11:15:48 IST" finished-at="2019-12-04T11:20:44 IST">
+  <suite name="Default suite" duration-ms="38" started-at="2019-12-10T05:18:57Z" finished-at="2019-12-10T05:18:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="295871" started-at="2019-12-04T11:15:48 IST" finished-at="2019-12-04T11:20:44 IST">
-      <class name="qsp.Demo">
-        <test-method status="PASS" signature="testA()[pri:0, instance:qsp.Demo@3632be31]" name="testA" duration-ms="295836" started-at="2019-12-04T11:15:48 IST" finished-at="2019-12-04T11:20:44 IST">
+    <test name="Default test" duration-ms="38" started-at="2019-12-10T05:18:57Z" finished-at="2019-12-10T05:18:57Z">
+      <class name="qsp.sampleGithub">
+        <test-method status="PASS" signature="testA()[pri:0, instance:qsp.sampleGithub@215be6bb]" name="testA" duration-ms="14" started-at="2019-12-10T05:18:57Z" finished-at="2019-12-10T05:18:57Z">
           <reporter-output>
+            <line>
+              <![CDATA[Hello Good morning!]]>
+            </line>
           </reporter-output>
         </test-method> <!-- testA -->
-      </class> <!-- qsp.Demo -->
+      </class> <!-- qsp.sampleGithub -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
